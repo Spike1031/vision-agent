@@ -179,7 +179,7 @@ The report contains:
 Clone the repository.
 
 ```bash
-git clone https://github.com/your-username/vision-agent.git
+git clone https://github.com/Spike1031/vision-agent.git
 cd vision-agent
 ```
 
