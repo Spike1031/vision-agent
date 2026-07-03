@@ -1,0 +1,37 @@
+{
+    "objects": [
+        {
+            "class": "car"
+        },
+        {
+            "class": "car"
+        },
+        {
+            "class": "car"
+        },
+        {
+            "class": "person"
+        },
+        {
+            "class": "person"
+        },
+        {
+            "class": "person"
+        },
+        {
+            "class": "person"
+        },
+        {
+            "class": "person"
+        },
+        {
+            "class": "person"
+        },
+        {
+            "class": "car"
+        },
+        {
+            "class": "person"
+        }
+    ]
+}
